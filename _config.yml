@@ -2,8 +2,8 @@
 
 title:  nexocrew
 locale: en_UK
-#url: http://nexocrew.github.io  # uncomment for live
-url: http://localhost:4000  # uncomment for dev
+url: http://nexocrew.github.io  # uncomment for live
+#url: http://localhost:4000  # uncomment for dev
 
 # Jekyll configuration
 permalink:   /:categories/:title/
